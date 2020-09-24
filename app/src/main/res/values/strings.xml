@@ -4,4 +4,6 @@
     <string name="last_name">Nachname</string>
     <string name="email">Email</string>
     <string name="password">Passwort</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="register">Registrieren</string>
 </resources>
