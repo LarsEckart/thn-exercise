@@ -6,4 +6,6 @@
     <string name="password">Passwort</string>
     <string name="cancel">Abbrechen</string>
     <string name="register">Registrieren</string>
+    <string name="not_empty">Angabe notwendig</string>
+    <string name="all_required">Bitte füllen Sie alle Felder aus.</string>
 </resources>
