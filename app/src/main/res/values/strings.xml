@@ -3,4 +3,5 @@
     <string name="first_name">Vorname</string>
     <string name="last_name">Nachname</string>
     <string name="email">Email</string>
+    <string name="password">Passwort</string>
 </resources>
