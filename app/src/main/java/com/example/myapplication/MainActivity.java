@@ -27,5 +27,13 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+        Button cancelButton = findViewById(R.id.cancelButton);
+        cancelButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                firstNameEditText.setText("");
+            }
+        });
     }
 }
