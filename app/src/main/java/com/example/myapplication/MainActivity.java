@@ -26,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
                     firstNameEditText.setError(getResources().getString(R.string.not_empty));
                     Toast.makeText(getApplicationContext(), R.string.all_required, Toast.LENGTH_LONG).show();
                 }
+
+                if (firstName.contains("?")) {
+
+                }
             }
         });
 
