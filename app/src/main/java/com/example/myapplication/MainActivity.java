@@ -30,6 +30,10 @@ public class MainActivity extends AppCompatActivity {
                 if (firstName.contains("?")) {
 
                 }
+
+                if (firstName.length() < 3) {
+
+                }
             }
         });
 
